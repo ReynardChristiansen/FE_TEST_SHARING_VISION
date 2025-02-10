@@ -1,5 +1,5 @@
 
-## Step to Run
+## Step to Run Frontend
 Clone the Repository
     
     git clone https://github.com/ReynardChristiansen/FE_TEST_SHARING_VISION.git
@@ -8,9 +8,14 @@ Install Dependencies
 
     npm install
 
-Run the Server
+Run the Server Frontend
 
     npm run dev
+
+
+## Step to Run Backend
+
+https://github.com/ReynardChristiansen/BE_TEST_SHARING_VISION
 
 
 ## Result
